@@ -2,7 +2,7 @@
 
 Compacts a SilverStripe source code into a deployable state with composer
 
-This image is different from [silverstripeltd/platform-build](https://github.com/silverstripeltd/platform-build) in that it calls a bash script `./tools/pre-build-archive` in the source code to do further processing, like gulp et cetera.
+This image is different from [silverstripe-platform/platform-build](https://github.com/silverstripe-platform/platform-build) in that it calls a bash script `./tools/pre-build-archive` in the source code to do further processing, like gulp et cetera.
 
 
 ## What is this?
